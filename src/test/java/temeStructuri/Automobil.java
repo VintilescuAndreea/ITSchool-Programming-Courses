@@ -2,7 +2,7 @@ package temeStructuri;
 
 import org.testng.annotations.Test;
 
-public class Masina {
+public class Automobil {
 
     // Variabile globale
     public String marca;

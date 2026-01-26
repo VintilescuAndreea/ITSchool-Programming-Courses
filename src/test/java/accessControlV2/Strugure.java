@@ -5,7 +5,7 @@ import accessControlV1.Fruct;
 public class Strugure extends Fruct {
 
     public void metodaStrugure(){
-        metoda
+
 
     }
 }

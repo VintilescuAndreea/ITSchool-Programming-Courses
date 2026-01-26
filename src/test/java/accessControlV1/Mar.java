@@ -4,6 +4,10 @@ public class Mar {
 
     public void metodaMar(){
         Fruct fruct = new Fruct();
-        fruct.meto
-    }}
+        fruct.metodaPublica();
+        fruct.metodaDefault();
+        //fruct.metodaPrivata(); //nu am acces
+
+    }
 }
+

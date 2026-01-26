@@ -6,7 +6,5 @@ public class Zmeura {
 
     public void metodaStruure(){
 
-        Fruct fruct = new Fruct();
-        fruct.meto
     }
 }
