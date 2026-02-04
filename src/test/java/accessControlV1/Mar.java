@@ -6,7 +6,7 @@ public class Mar {
         Fruct fruct = new Fruct();
         fruct.metodaPublica();
         fruct.metodaDefault();
-        //fruct.metodaPrivata(); //nu am acces
+        //fruct.metodaPrivata(); //Nu am acces
 
     }
 }
